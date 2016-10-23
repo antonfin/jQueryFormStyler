@@ -2,6 +2,7 @@
 
 ## 1.7.6-r1 <sup>23.10.2016</sup>
 - Changed package.json
+- Changed jquery.formstyler.min.js file
 
 ## 1.7.6 <sup>05.06.2016</sup>
 - Добавлено: поддержка дробных чисел в `<input type="number">`.
